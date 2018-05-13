@@ -8,6 +8,24 @@ body{
   text-align: center;
 }
 
+a {
+  color: seashell;
+}
+
+h2,
+h3,
+h4 {
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 
 /* Header */
 header {
@@ -20,6 +38,20 @@ header {
   align-items: center;
 }
 
+header img {
+  height: 50px;
+  padding-left: 10px;
+}
+
+nav {
+  text-align: right;
+  flex-grow: 1;
+}
+
+nav span {
+  display: inline-block;
+  padding: 20px 10px;
+}
 
 /* Main */
 .main {
