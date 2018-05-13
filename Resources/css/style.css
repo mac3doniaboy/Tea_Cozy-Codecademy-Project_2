@@ -1,3 +1,46 @@
-header{
+/* Body */
+body{
+  margin: 0;
+  font-family: helvetica;
+  color: seashell;
   background-color: black;
+  font-size: 22px;
+  text-align: center;
 }
+
+
+/* Header */
+header {
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  height: 69px;
+  background-color: black;
+  border-bottom: 1px solid seashell;
+  align-items: center;
+}
+
+
+/* Main */
+.main {
+  padding-top: 69px;
+  opacity: 0.9;
+  width: 1200px;
+  margin: auto;
+}
+
+
+/* Mission */
+
+
+/* monthly_menu */
+
+
+/* Location */
+
+
+/* Contact Details */
+
+
+
+/* Footer */
