@@ -1,1 +1,3 @@
-# Tea_Cozy-Codecademy-Project_2
+The Tea Cozy
+
+A project for Codecademy
